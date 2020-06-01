@@ -1,0 +1,19 @@
+1. master theorem
+2. threshold -> 큰 정수 곱셈
+3. chained matrix 출력, tree문제 코드 빈칸
+4. quick sort average time complexity 정확히 풀기
+5. merge sort 버전1 메모리 얼마나 쓰는지 계산하고 이유쓰기
+6. 유전자 알고리즘 코드 빈칸 -> 변형됨 
+7. chained matrix recurrence relation 3^n나오는 이유적기 
+8. strassen 스탠다드 곱 횟수 n^3, 스트라센 곱 횟수 n^lg7
+9. quicksort partition 했을 때 결과
+10. 시간 복잡도 카테고리 나열하기 -> 오름 차순
+(순서대로 아님)
+_____________________________________70점
+11, 12는 자작문제 우리는 dp문제 나옴
+부분수열의 최대합
+-> chained matrix, optimal binary search tree문제와 유사
+
+동전을 나열했을 때 서로 인접한 동전을 선택할 수 없는 조건하에, 동전들로 만들 수 있는 최대 부분합(unsorted)
+-> 유전자 시퀸스 알고리즘하고 유사
+_____________________________________30점
